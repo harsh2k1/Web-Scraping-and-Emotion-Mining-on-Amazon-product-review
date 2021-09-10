@@ -1,0 +1,2 @@
+# Web-Scraping-and-Emotion-Mining-on-Amazon-product-review
+## I scraped reviews of alexa echo dot 4 from amazon website. Then I performed Sentiment analysis on it. At last I performed Emotion mining by vectorizing the Reviews and predicting their values using Linear SVM.&lt;br>Link for the same is &lt;a href = "https://www.amazon.in/All-new-Echo-Dot-with-clock/product-reviews/B084J4MZQM/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&amp;reviewerType=all_reviews&amp;pageNumber=1">here&lt;/a>
